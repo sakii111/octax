@@ -7089,7 +7089,7 @@
  }), (0, b.jsx)("div", {
                 className: "flex justify-center",
                 children: (0, b.jsx)("img", {
-                    src: "screenshotoctax.png",
+                    src: "screenshott.gif",
                     alt: "Mobile UI",
                     className: "w-full max-w-xs md:max-w-sm rounded-xl shadow-md"
                 })
