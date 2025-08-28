@@ -110,7 +110,7 @@ export default function App() {
  { /* Mobile UI Image */ } <
         div className = "flex justify-center" >
         <
-        img src = "screenshotoctax.png"
+        img src = "screenshott.gif"
         alt = "Mobile UI"
         className = "w-full max-w-xs md:max-w-sm rounded-xl shadow-md" /
         >
@@ -172,4 +172,5 @@ export default function App() {
         /div> <
         /div>
     );
+
 }
